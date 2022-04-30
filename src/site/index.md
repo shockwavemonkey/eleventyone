@@ -1,6 +1,6 @@
 ---
 title: Trent Bagshaw
-subtitle: I'm a Digital Transofmration (DX) and Customer Experience (CX) professional who finds it hard to describe what I do and how I got here for a potential employer so here we are. I've only just spun this up (30th April 2022) because I haven't actively looked for a new role in a dozen years or so. Work in progress based on a project scaffold y <a href="https://twitter.com/philhawksworth">Phil</a>, thanks Phil!
+subtitle: I'm a Digital Transofmration (DX) and Customer Experience (CX) professional who finds it hard to describe what I do and how I got here for a potential employer so here we are. I've only just spun this up (30th April 2022) because I haven't actively looked for a new role in a dozen years or so. Work in progress based on a project scaffold by <a href="https://twitter.com/philhawksworth">Phil</a>, thanks Phil!
 layout: layouts/base.njk
 ---
 
