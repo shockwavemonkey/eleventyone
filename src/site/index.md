@@ -1,8 +1,18 @@
 ---
 title: Trent Bagshaw
-subtitle: I'm a Digital Transofmration (DX) and Customer Experience (CX) professional who finds it hard to describe what I do and how I got here for a potential employer so here we are. I've only just spun this up (30th April 2022) because I haven't actively looked for a new role in a dozen years or so. Work in progress based on a project scaffold by <a href="https://twitter.com/philhawksworth">Phil</a>, thanks Phil!
+subtitle: If I've pointed you at this then I'm asking you for 5 minutes of your life you'll never get back, so thank you! I'm a Digital Transfomration (DX) and Customer Experience (CX) professional who finds it hard to describe what I do and how I got here for a potential employer. I've only just spun this up (30th April 2022) because I haven't actively looked for a new role in fifteen years or so. Work in progress based on a project scaffold by <a href="https://twitter.com/philhawksworth">Phil</a>, thanks Phil!
 layout: layouts/base.njk
 ---
+## What do I do for a living? Specifically what do I do well?
+This is a question I've had trouble with for a long time because what I'm good at didn't really exist 20 years ago. At least not in the way that it works now or the speed at which it changes. Doctor, plumber and accountant are all roles that we inherintly just *understand*. Even modern jobs in the IT space like computer programmer are somewhat understood even if you don't know exactly what that person does on a day-to-day basis.
+
+This might be better worded as "What do you do *well* while you are employed?" as I've had lots of different jobs but I've always gravitated towards DX and CX regardless of KPIs and role descriptions. What I do well is identify and permanently remove or reduce **process friction** for people, using (mostly) digital technology. I'd also like to think that I'm good at other things including communication, problem solving and computer "savvy".
+
+## I've answer a question with a made-up term. What is process friction?
+Process friction means something that gets in the way of you moving towards your goals. More speficially, it's something that gets in the way of your ability, experience, and expertise that you use to achieve those goals. In the business world it's called "business friction" and in your personal life I'm honestly not sure what it's called. Struggling to remember all of the passwords you have (assuming you are doing what you're supposed to do and having unique passwords for the 300 accounts in your life) and failing to log in to services quickly because you forgot one of them is an example of process friction. LastPass or 1Password is an example of a digital tool that can remove the process friction and allow you to log in. It removes the process friction by eliminating something you are probably not an expert in (remembering 300 unique passwords) and allowing you to more quickly achieve your goal (binge watching Netflix).
+
+## What are some examples of process friction that you've resolved?
+I worked in a call centre between 2003 and 2007 while at university where my role was answering the phone and providing customer service. Paperwork (faxing, tracking performance) was a major component of each day which with the Microsoft Office suite available seemed like a waste of time. So I created paperless systems that removed the need for paperwork in either by using existing systems and VBA (the MS Office scripting language). It saved each call centre worker ~15 minutes per day and the administrative staff about 2 hours a day. The process friction
 
 ## Below this line is all scaffold
 
