@@ -1,6 +1,6 @@
 ---
 title: Trent Bagshaw
-subtitle: If I've pointed you at this then I'm asking you for 5 minutes of your life you'll never get back, so thank you! I'm a Digital Transfomration (DX) and Customer Experience (CX) professional who finds it hard to describe what I do and how I got here for a potential employer. I've only just spun this up (30th April 2022) because I haven't actively looked for a new role in fifteen years or so. Work in progress based on a project scaffold by <a href="https://twitter.com/philhawksworth">Phil</a>, thanks Phil!
+subtitle: If I've pointed you at this then I'm asking you for 5 minutes of your life you'll never get back, so thank you! I'm a <a href="https://en.wikipedia.org/wiki/Digital_transformation" target="_blank">Digital Transformation</a> (DX) and <a href="https://en.wikipedia.org/wiki/Customer_experience" target="_blank">Customer Experience</a> (CX) professional who finds it hard to describe what I do and how I got here for a potential employer. I've only just spun this up (30th April 2022) because I haven't actively looked for a new role in fifteen years or so. Currently an unfinished work in progress based on a project scaffold by <a href="https://twitter.com/philhawksworth">Phil</a>, thanks Phil!
 layout: layouts/base.njk
 ---
 ## What do I do for a living? Specifically what do I do well?
