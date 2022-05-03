@@ -1,10 +1,11 @@
 ---
 title: Trent Bagshaw
-subtitle: If I've pointed you at this then I'm asking you for 5 minutes of your life you'll never get back, so thank you! I'm a <a href="https://en.wikipedia.org/wiki/Digital_transformation">Digital Transformation</a> (DX) and <a href="https://en.wikipedia.org/wiki/Customer_experience">Customer Experience</a> (CX) professional who finds it hard to describe what I do and how I got here for a potential employer. I've only just spun this up (30th April 2022) because I haven't actively looked for a new role in fifteen years or so. Currently an unfinished work in progress based on a project scaffold by <a href="https://twitter.com/philhawksworth">Phil</a>, thanks Phil!
+subtitle: If I've pointed you at this then I'm asking you for 5 minutes of your life you'll never get back, so thank you! I'm a <a href="https://en.wikipedia.org/wiki/Digital_transformation">Digital Transformation</a> (DX) and <a href="https://en.wikipedia.org/wiki/Customer_experience">Customer Experience</a> (CX) professional who finds it hard to describe what I do, and how I got here, for a potential employer.
 layout: layouts/base.njk
 ---
 ## Don't want to read everything underneath? Here are the key points.
 - Turns out I'm an [intrepreneur](https://en.wikipedia.org/wiki/Intrapreneurship) (I only just learned this term) which sounds incredibly pompous but so is having a website named after yourself so I guess I'm all in
+- I'm not self-made. I've worked for incredible people and leveraged amazing technology to achieve everything I've ever done
 - I've solved problems that weren't my problem at every job I've ever had
 - I genuinely like people and want their professional lives to be easier
 - I love solving puzzles with technology
