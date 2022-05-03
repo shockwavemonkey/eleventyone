@@ -1,33 +1,14 @@
 ---
-title: Get Yours
+title: Professional Bio
 layout: layouts/base.njk
-subtitle: Clone and deploy your own EleventyOne starter template.
+subtitle: I paid Amber Dean to write a bio for me because self promotion is tough.
 ---
+Designing myself and my work on a foundation of integrity, I am a longstanding Software Integrations and Business Growth professional with over a decade of experience accentuating the B2B and mining software sector. As the former Product Owner at Precision Mining, I have an extensive background involving the intricacies of cross-functional leadership, UX optimization/advocacy, and advanced software integrations, and enjoy leveraging that dynamicity to continuously drive new levels of team unification, improved customer satisfaction, and sustainable scaling reform.
 
-## Hosting
+Throughout my career, I have built a large inventory of experiences and successions that have led to my current endorsed standing across the ever-evolving space. Prior to joining Xenith Consulting in 2021, I worked for several companies holding various lateral roles missioned to enhance operations, team productivity, and improve high-profile software integrations. In my early career, I worked for IAG while attending University. Here designed a system that leverages Excel in place of manual paper-based worksheets (soon adopted by the organization nationally). From there, I began working for Harvey Norman in 2008, proactively implementing digital customer loyalty recognition systems. During this duration, I also began my reputation for boosting quality performance, developing healthy workplace cultures, and utilizing the innate value of moral compass leadership through each progressive stage.
 
-This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
+With that as my base, it inevitably became the catalyst for me to become the Head of Customer Experience for Harvey Norman Online, joining The School Locker team in 2010. While here, I was accredited for implementing LiveChat to leverage idle store salespeople and improve the online experience, systems that continue to be used across all HN platforms today. I then began working as the Product Owner for Precision Mining in 2013, pioneering various organizational relations, including (but not limited to) training, customer-facing concepts, sales, implementing automation, and managing diverse scaling-oriented platforms. Even more, my efforts have also resulted in the successful training of over 300+ engineers in mine scheduling, increasing sales from $100k to $4M, and earning several recognitions such as the QLD High Performance Award in 2006, the QLD Customer Service Award in 2007, and being nominated the National Award for Innovation two consecutive years in a row. 
 
-<div class="nakedLink">
+Overall, nothing makes me happier than translating organizational efficiency and UX goals into tangible realities and doing so all while ensuring everyone involved has positive constructive experiences along the way. From rich customer advocacy, business networking to full lifecycle software solutioning, I enjoy bridging tech-in-business gaps and demonstrate that by delivering tactical guidance/time-saving executions that solidify viable futures. This, in conjunction with my commitment to exceeding the customer/branding experience and versed technological literacy, is what shaped me into the respected industry change agent that I am today – one who continuously strives to raise the bar for my team, our customers, and the entire mining software industry as a collective.
 
-Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/056b4a67-70e6-4af4-9be5-dee151b8e906/deploy-status)](https://app.netlify.com/sites/eleventyone/deploys)
-
-</div>
-
-## One-click deploy
-
-To get your own instance of this [Eleventy](https://11ty.io) starter project cloned and deploying to [Netlify](https://www.netlify.com) very quickly, just click the button below and follow the instructions.
-
-<div class="nakedLink">
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/eleventyone)
-
-</div>
-
-## 👆 Wait, what happens when I click that button?
-
-Good question. Here's what it will do...
-
-1. Netlify will clone the [git repository]({{pkg.repository.url}}) of this project into your GitHub account. You will be asked for the required permissions to add the repo for you.
-2. They'll create a new site for you in Netlify, and configure it to use your shiny new repo. Right away you'll be able to deploy changes simply by pushing changes to your repo.
-3. That's it really.
+Free time? Though my work is my passion, when I’m not helping others overcome efficiency/process hurdles, you can often find me embarking on various home automation projects or spending time with my two young kids.
